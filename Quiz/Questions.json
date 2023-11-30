@@ -1,0 +1,6 @@
+[{"Question": "In which continent is Nepal located?",
+  "Choices": ["Europe", "Asia", "South Africa"],
+  "Answer":2},
+ {"Question": "Which is the capital city of Nepal?",
+  "Choices": ["Kathmandu", "Damak", "Bhaktapur"],
+  "Answer":1}]
